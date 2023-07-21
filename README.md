@@ -1,0 +1,2 @@
+# Cardiovascular-Disease-CVD-Analysis-Dashboard
+Introducing the Cardiovascular Disease (CVD) Analysis Dashboard, an in-depth exploration of correlations between heart disease, weight, height, lack of exercise, and their interplay within specific age ranges. Furthermore, the dashboard examines the relationships of diabetes and depression with lack of exercise and vice versa, providing valuable insights into these health factors of exercising
